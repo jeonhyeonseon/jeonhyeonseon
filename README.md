@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&color=517388&text=🍒&descAlign=49&descAlignY=61)
+![header](https://capsule-render.vercel.app/api?type=Transparent&height=200&width=1000&text=Welcome%20to%20luuHub%F0%9F%8D%92&descAlign=49&descAlignY=61&fontColor=23548B)
 
 ---
 
