@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=FD4B4B&text=Welcome%20to%20luuHub&fontAlign=50&fontAlignY=30&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=FD4B4B&text=🌻Welcome%20to%20luuHub🌻&fontAlign=50&fontAlignY=30&fontSize=50&fontColor=FFFFFF)
 
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeonhyeonseon&count_bg=%23F7437F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&style=for-the-badge)](https://github.com/jeonhyeonseon)
 
