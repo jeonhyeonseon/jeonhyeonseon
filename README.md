@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=FD4B4B&text=🌻Welcome%20to%20luuHub🌻&fontAlign=50&fontAlignY=30&fontSize=50&fontColor=FFFFFF)
-
+   ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=FD4B4B&text=🌻Welcome%20to%20luuHub🌻&fontAlign=50&fontAlignY=30&fontSize=50&fontColor=FFFFFF)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeonhyeonseon&count_bg=%23F7437F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&style=for-the-badge)](https://github.com/jeonhyeonseon)
 
 </div>
@@ -51,16 +50,18 @@
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jeonhyeonseon&show_icons=true&theme=cobalt" alt="Hyeonseon's GitHub stats">
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeonhyeonseon&theme=cobalt" alt="Hyeonseon's GitHub Streak">
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/jeonhyeonseon">
+        <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jeonhyeonseon&show_icons=true&rank_icon=github&count_private=true&theme=transparent&hide_border=true&hide=stars&title_color=F7437F&text_color=000000&icon_color=F7437F" alt="jeonhyeonseon's github stats" />
+      </a> 
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonhyeonseon&layout=compact&theme=transparent&title_color=F7437F&text_color=000000&icon_color=F7437F" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=FD4B4B&section=footer&fontColor=FFFFFF)
   
