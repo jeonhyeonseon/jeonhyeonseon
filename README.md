@@ -26,11 +26,9 @@
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rain-canary-55f.notion.site/11611b3dfa7e8003b5f1ef446a351cc7?pvs=4)
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lu__study__log/posts)
 
-<br/>
+<hr style="border: 0.5px solid #d1d5da; width: 80%;" />
 
 <h3>🛠️ Skills 🛠️</h3>
-
-<hr style="border: 0.5px solid #d1d5da; width: 80%;" />
 
 #### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
