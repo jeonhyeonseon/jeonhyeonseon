@@ -16,6 +16,8 @@
 ### ✉️ Connect ✉️
   
   [![Gmail](https://img.shields.io/badge/-goodpretty0325@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goodpretty0325@gmail.com)
+
+### 🗂️ Channel 🗂️
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rain-canary-55f.notion.site/11611b3dfa7e8003b5f1ef446a351cc7?pvs=4)
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lu__study__log/posts)
 
