@@ -1,34 +1,39 @@
-<h1 align="center">👩🏻‍💻 신입 개발자 전현선입니다.</h1>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=🍒%20Welcome%20to%20my%20github%20🍒&fontSize=40&fontColor=FFC0CB)
 
-<h3 align="center">☑️ 편안한 소통과 넓은 수용력</h3>
-<h3 align="center">☑️ 멈추지 않는 궁금증과 질문</h3>
-<h3 align="center">☑️ 기록(깃허브, 블로그)을 통한 꾸준함</h3>
-<h3 align="center">☑️ 협업 중심 개발자: 프론트와 백엔드 모두 아는 커뮤니케이터</h3>
+## 🙋🏻‍♀️ About Me
+- 협업 중심 개발자: 프론트와 백엔드 모두 아는 커뮤니케이터
+- 편안한 소통과 넓은 수용력
+- 멈추지 않는 궁금증과 질문
+- 기록(깃허브, 블로그)을 통한 꾸준함
 
----
+## ☎️ Contact
+[![Gmail](https://img.shields.io/badge/goodpretty0325@gmail.com-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:goodpretty0325@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/11611b3dfa7e8003b5f1ef446a351cc7)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@lu__study__log/posts)
 
-<div align="center"> 
-  
-### ✉️ Connect ✉️
-  
-  [![Gmail](https://img.shields.io/badge/-goodpretty0325@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goodpretty0325@gmail.com)
+## Skills
+<h4>🛠 Backend</h4>
+<div>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=MyBatis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+</div>
 
-### 🗂️ Channel 🗂️
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rain-canary-55f.notion.site/11611b3dfa7e8003b5f1ef446a351cc7?pvs=4)
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lu__study__log/posts)
+<h4>🎨 Frontend</h4>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</div>
 
-<hr style="border: 0.5px solid #d1d5da; width: 80%;" />
-
-<h3>🛠️ Skills 🛠️</h3>
-
-#### Backend
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-#### Frontend
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-
-#### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<h4>🗄️ Database & ☁️ DevOps</h4>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</div>
