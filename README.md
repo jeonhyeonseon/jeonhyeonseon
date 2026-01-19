@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=🍒%20Welcome%20to%20my%20github%20🍒&fontSize=40&fontColor=FFC0CB)
-
 ## 🙋🏻‍♀️ About Me
 - 협업 중심 개발자: 프론트엔드와 백엔드 모두 아는 커뮤니케이터
 - 편안한 소통과 넓은 수용력
